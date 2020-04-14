@@ -11,6 +11,6 @@ The Data Science for Social Good program, administered through the [University o
 
 [See full report here](https://drive.google.com/file/d/1Ex6AJQtmHsKA7DTmKsaRMUmNkqyL58CR/view?usp=sharing)
 
-[Biodiversity Mapping Tool](https://dssgweb.herokuapp.com/biodivmap/)
+[Biodiversity Mapping Tool](https://dssgbiodiv.herokuapp.com/biodivmap/)
 
 [Data Link](https://drive.google.com/drive/folders/1g0JQFthAP1Vb-9d5sj5qczsM7zPM-jIe?usp=sharing)
